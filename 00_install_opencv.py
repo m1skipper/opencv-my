@@ -1,4 +1,4 @@
 #
-# Инсталляция opencv под python3
+# РРЅСЃС‚Р°Р»Р»СЏС†РёСЏ opencv РїРѕРґ python3
 # 
 # pip3 install opencv-python
